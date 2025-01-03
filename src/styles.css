@@ -7,16 +7,14 @@
   border: 0 solid transparent;
 }
 
-body {
-  background-color: rgb(244, 244, 244);
-  -webkit-font-smoothing: antialiased;
-}
-
 html,
 body {
   height: 100%;
 }
+
 body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-color: rgb(244, 244, 244);
+  -webkit-font-smoothing: antialiased;
 }
